@@ -5,4 +5,4 @@
 | bar  | bar  | bar  |
 | baz  | baz  | baz  |
 ---------------------
-$$\frac{{-b}\pm\sqrt{b^2-4ac}}{2a}-----lim_{x \to \infty} \ exp(-x)=0$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
